@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/news_db?useUnicode=true&characterEncoding=UTF-8&useSSL=true
     username: root
-    password: 1qaz2wsx
+    password: superman713
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
       initial-size: 5
@@ -28,8 +28,8 @@ spring:
         enable: true
       stat-view-servlet:
         enabled: true
-        login-username: druid_admin
-        login-password: 123456
+        login-username: geekerit
+        login-password: cnh1k2jJhz
 #logging:
  # level:
   #  com:
